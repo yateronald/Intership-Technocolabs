@@ -5,3 +5,4 @@ drwxrwxr-x 8 yate yate 4096 Mar 23 20:38 .git
 drwxrwxr-x 9 yate yate 4096 Mar 23 20:36 Prerequisite
 -rw-rw-r-- 1 yate yate   24 Mar 23 20:36 README.md
 -rw-rw-r-- 1 yate yate    0 Mar 23 20:39 result.txt
+.
